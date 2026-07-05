@@ -117,8 +117,6 @@ The IDS should detect the scan and produce an alert similar to:
 * Signature-based attack detection
 * Machine learning–based anomaly detection
 * Packet logging and visualization
-* Multi-threaded packet processing
-* Support for additional attack patterns such as brute-force attempts and ICMP floods
 
 ---
 
